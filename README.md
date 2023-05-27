@@ -1,4 +1,5 @@
-# assignment-1
+# Assignment-1
+
 1. Assign your Name to variable name and Age to variable age. Make a Python program that 
 prints your name and age.
 2. X="Datascience is used to extract meaningful insights."
